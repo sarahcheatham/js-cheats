@@ -46,3 +46,21 @@ _Note: to kill both servers, type `ctrl+c` **twice** into the terminal_
 
 `yarn run start:react`
 
+#### Screenshots
+
+homepage
+
+![homepage][https://i.imgur.com/5pywK7L.png]
+
+example method page
+
+![example method][https://i.imgur.com/QL8M7TX.png]
+
+blog
+
+![blog][https://i.imgur.com/E22mX2T.png]
+
+
+
+
+

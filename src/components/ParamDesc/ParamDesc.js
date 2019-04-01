@@ -2,6 +2,7 @@ import React from 'react';
 import BadgeRequired from "../BadgeRequired/BadgeRequired";
 import BadgeOptional from "../BadgeOptional/BadgeOptional";
 
+
 const ParamDesc = ({ isRequired, paramName, paramDesc, paramNameWidth, children }) => {
   // check if param is required or optional
   let badge;
